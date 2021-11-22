@@ -1,6 +1,10 @@
+body {
+  background-color:#e6f2ff;
+}
 section {
   padding: 6rem;
 }
 .jumbotron {
-  background-color: #e6f2ff;
+  
+  background-color: #d5e0eb;
 }
